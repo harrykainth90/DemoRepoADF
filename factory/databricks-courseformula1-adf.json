@@ -1,0 +1,9 @@
+{
+	"name": "databricks-courseformula1-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7edec346-8866-45e7-8084-e1d37a5fff90",
+		"tenantId": "67f66a25-8d26-4c6b-a192-856107c37bff"
+	}
+}
