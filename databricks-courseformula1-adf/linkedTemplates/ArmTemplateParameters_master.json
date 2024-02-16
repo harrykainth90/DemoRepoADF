@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "databricks-courseformula1-adf"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"pizza_sales_ls_connectionString": {
+			"value": ""
+		},
+		"ls_databricks_course_ws_properties_typeProperties_existingClusterId": {
+			"value": "1209-212417-ln7ahqh5"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
